@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @klexup
-- 🌱 I’m currently learning java
+- 🌱 Frontend Software Developer
 
 <!---
 klexup/klexup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
