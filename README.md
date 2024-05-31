@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @klexup
+- 👋 Hi, I’m James.
 - 🌱 Frontend Developer specializing in React
 
 <!---
